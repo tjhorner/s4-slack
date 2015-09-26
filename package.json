@@ -1,6 +1,6 @@
 {
   "name": "s4-slack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Slack s4 core connector.",
   "main": "index.js",
   "scripts": {

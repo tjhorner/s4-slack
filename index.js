@@ -27,6 +27,8 @@ function SlackConnector(bot, key){
     var slackReady = true;
   });
 
+  slack.login();
+
   return this;
 }
 
