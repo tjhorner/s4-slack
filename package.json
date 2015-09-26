@@ -1,0 +1,25 @@
+{
+  "name": "s4-slack",
+  "version": "0.0.1",
+  "description": "Slack s4 core connector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjhorner/s4-slack.git"
+  },
+  "keywords": [
+    "s4"
+  ],
+  "author": "TJ Horner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjhorner/s4-slack/issues"
+  },
+  "homepage": "https://github.com/tjhorner/s4-slack#readme",
+  "dependencies": {
+    "slack-client": "^1.4.1"
+  }
+}
